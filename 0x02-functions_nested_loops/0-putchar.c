@@ -1,13 +1,13 @@
 /*
  * File: _putchar.c
- * Auth: Brennan D Baraban
  *
+ * Auth: Brennan D Baraban
  */
 
 #include "main.h"
 
 /**
- * main - Entry point
+ * main - prints "_putchar" followed by a new line.
  *
  * return: Always 0 (Success)
  */
