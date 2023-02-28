@@ -20,7 +20,7 @@ void puts_half(char *str)
 	{
 		_putchar(str[n]);
 	}
-	if (x != 1.0)
+	if (x == 1.0)
 	{
 		_putchar(str[y]);
 	}
