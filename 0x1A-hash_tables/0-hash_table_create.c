@@ -5,7 +5,7 @@
  *
  * @size: size of the hash table to be created
  * Return: the created hash table
- *         or NULL if function fails
+ *         or NULL if the function fails
  */
 hash_table_t *hash_table_create(unsigned long int size)
 {
